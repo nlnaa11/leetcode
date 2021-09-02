@@ -1,2 +1,2 @@
-# leedcode
+# leetcode
 My solutions to problems
